@@ -295,8 +295,8 @@ Missing features
 
 Some features are notably missing:
 
-1. No complex numbers
-2. No true 3D view
+1. No complex numbers.
+2. No true 3D view.
 3. No support for arrays/matrices or loops, no way to define functions, etc.
 4. A few common functions are missing: GCD, LCM, prime/composite detection, ...
 5. Optimizations: if you write multiple series and modify one of them, they are *all* recomputed. Also, plots of X-Y formulas are recomputed for every pixel, and the renderer and especially the expression evaluator are a bit slow for heavy-duty work.
